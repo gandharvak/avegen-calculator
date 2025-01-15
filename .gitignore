@@ -2,6 +2,10 @@
 #
 .DS_Store
 
+#keystorefile
+android/app/my-release-key.keystore
+
+
 # Xcode
 #
 build/
